@@ -32,13 +32,13 @@
 
 - Class management
   - google classroom
-  - github
+  - [github](https://github.com), [github desktop](https://desktop.github.com)
 
 - Programming
-  - visual studio code
-  - python3 (anaconda, google colaboratory)
+  - [visual studio code](https://code.visualstudio.com)
+  - python3 ([anaconda](https://www.anaconda.com))
   - jupyter notebook
-  - google colab
+  - [google colab](https://colab.research.google.com)
 
 ## Grading Policy
 
